@@ -5,7 +5,7 @@ import { orbitron, exo2 } from './fonts';
 export const metadata = {
   title: {
     default: 'Indie Gamer',
-    template: '%s | Indie Gamer'
+    template: '%s | Indie Gamer',
   },
 };
 
@@ -24,7 +24,7 @@ export default function RootLayout({ children }) {
             target='_blank'
             className='text-orange-800 hover:underline'
           >
-            RAWG
+            RAWG Deployed on Vercel Dec 28, 2023
           </a>
         </footer>
       </body>
