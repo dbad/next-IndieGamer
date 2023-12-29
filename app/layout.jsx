@@ -24,8 +24,9 @@ export default function RootLayout({ children }) {
             target='_blank'
             className='text-orange-800 hover:underline'
           >
-            RAWG Deployed on Vercel Dec 28, 2023
-          </a>
+            RAWG
+          </a>{' '}
+          Deployed on Vercel by Daniel on Dec 28, 2023
         </footer>
       </body>
     </html>
